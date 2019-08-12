@@ -19,4 +19,5 @@ void menu( void ){
 void sobre( void ){
     printf("Programa desenvolvido por:\n");
     printf("Elizeu Martins e Taynara Medeiros\n");
+    printf("No dia 12-08-2019 às 15:29")
 }
